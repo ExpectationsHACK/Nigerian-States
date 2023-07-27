@@ -74,4 +74,16 @@ Ogun state
    Ota 
    Abeokuta 
    Agbara 
-   Ajebo 
+   Ajebo <br/>
+
+   Abia state
+     Her cities by Divine
+
+     Umuahia
+     Ohafia
+     Uturu
+     Arochukwu
+     Bende
+     Aba ngwa
+     Osisioma <br/>
+     
